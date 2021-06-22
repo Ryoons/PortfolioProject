@@ -1,3 +1,3 @@
-## Personal Portfolio
+##  Portfolio Project
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://puu.sh/HQWZd/b6fc7b9001.jpg)
