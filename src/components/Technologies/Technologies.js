@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've been learning and working with a range of technologies in the development world. 
-      From front end to back end.
+      From front end to back end. Hello
     </SectionText>
   </Section>
 );
