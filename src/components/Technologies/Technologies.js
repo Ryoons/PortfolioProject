@@ -6,6 +6,7 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider/>
+    <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've been learning and working with a range of technologies in the development world. 
@@ -13,7 +14,7 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiFirebase size ="3rem"/>
+        <DiReact size ="3rem"/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
