@@ -9,8 +9,17 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've been learning and working with a range of technologies in the development world. 
-      From front end to back end. Hello
+      From front end to back end.
     </SectionText>
+    <List>
+      <ListItem>
+        <DiFirebase size ="3rem"/>
+        <ListContainer>
+          <ListTitle>Front-End</ListTitle>
+          <ListParagraph></ListParagraph>
+        </ListContainer>
+      </ListItem>
+    </List>
   </Section>
 );
 
