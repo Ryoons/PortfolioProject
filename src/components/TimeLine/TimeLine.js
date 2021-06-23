@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        This is about me.
+        I want to create applications and webpages that make people stop and wonder how they were developed.
       </SectionText>
       <CarouselContainer ref = {carouselRef} onScroll = {handleScroll}>
         <>
