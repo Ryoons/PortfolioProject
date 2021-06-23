@@ -9,8 +9,8 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Ryan Nguyen <br/>
-        Front End <br/>
-        Web Developer
+        Full Stack <br/>
+        Developer
       </SectionTitle>
       <SectionText>
         My goal is to create innovative webpages that live rent free in your head.

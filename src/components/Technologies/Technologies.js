@@ -16,7 +16,25 @@ const Technologies = () =>  (
         <DiFirebase size ="3rem"/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
-          <ListParagraph></ListParagraph>
+          <ListParagraph>
+            Three.js <br/>
+            React.js <br/>
+            CSS <br/>
+            HTML <br/>
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size ="3rem"/>
+        <ListContainer>
+          <ListTitle>Back-End</ListTitle>
+          <ListParagraph>
+            Python <br/>
+            Java <br/>
+            SQL <br/>
+            C++ <br/>
+            Kotlin
+          </ListParagraph>
         </ListContainer>
       </ListItem>
     </List>
