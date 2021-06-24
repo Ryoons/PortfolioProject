@@ -1,3 +1,3 @@
 ##  Portfolio Project
 
-![Portfolio Website](https://puu.sh/HQWZd/b6fc7b9001.jpg)
+![Portfolio Website](https://puu.sh/HRqCI/9cc79fbd4e.jpg)
