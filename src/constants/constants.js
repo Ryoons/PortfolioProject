@@ -43,3 +43,9 @@ export const TimeLineData = [
   { year: 2020, text: 'Studies continue as I learn full stack development and covid hits. ', },
   { year: 2021, text: 'Continuing studies and learning new technologies admist covid lockdown.', },
 ];
+export const AccomplishData = [
+  { number: 4, text: 'Years of Developing and Learning'},
+  { number: 1000, text: 'Students', },
+  { number: 1900, text: 'Github Followers', },
+  { number: 5000, text: 'Github Stars', }
+];

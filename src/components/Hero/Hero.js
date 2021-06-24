@@ -13,7 +13,7 @@ const Hero = () => (
         Developer
       </SectionTitle>
       <SectionText>
-        My goal is to create innovative webpages that live rent free in your head.
+        My goal is to create innovative webpages and applications that live rent free in your head.
       </SectionText>
       <Button onClick= {() => window.open('https://google.ca').focus()}>Learn More</Button>
     </LeftSection>
