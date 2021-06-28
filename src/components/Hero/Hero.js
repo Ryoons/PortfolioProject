@@ -15,9 +15,10 @@ const Hero = () => (
       <SectionText>
         My goal is to create innovative webpages and applications that live rent free in your head.
       </SectionText>
-      <Button onClick= {() => window.open('https://google.ca').focus()}>Learn More</Button>
+      
+      <Button onClick= {() => window.open('https://google.ca').focus()}>Contact Me</Button>
     </LeftSection>
   </Section>
 );
-
+// Learn more button needs a relink to my email and a rename to the email 
 export default Hero;
